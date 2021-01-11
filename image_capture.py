@@ -10,4 +10,4 @@ camera.start_preview()
 time.sleep(1)
 camera.stop_preview()
 
-camera.capture('./image.jpg')
+camera.capture('./test.jpg')
